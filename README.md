@@ -15,3 +15,6 @@ Maintainence of Social Media handles for the user.
 Our user base will include: 1. Start ups. 2. Pre-established small businesses that are now trying to scale up. 3. Individuals such as Artists of various backgrounds.
 
 Social media is at it's peak at the moment, despite it's cons and a lot of people are making their living using this simple idea of reaching out to the large and diverse audience out there. All this process of drawing out a plan to scale a specific business or artist will be done manually by skilled Social Media Marketers who have the right experience needed to make such decisions.
+
+
+Disclaimer: AdHive, the Youtube video and the Github repository linked with it were all developed for the purpose of a Hackathon, in no way are they connected with the pre-existing company AdHive, unfortunately before registering for the 
